@@ -1,4 +1,4 @@
-# FluentSnackbar
+# FluentSnackbar (Just a fork for CompileApi 23)
 [![Release](https://jitpack.io/v/antonygolovin/fluentsnackbar.svg)](https://jitpack.io/#antonygolovin/fluentsnackbar)
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-FluentSnackbar-green.svg?style=true)](https://android-arsenal.com/details/1/3757)
 
