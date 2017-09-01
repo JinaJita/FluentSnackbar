@@ -63,7 +63,7 @@ public final class FluentSnackbar {
         }
 
         if (builder.isImportant()) {
-            snackbar.addCallback(new Snackbar.Callback() {
+            snackbar.setCallback(new Snackbar.Callback() {
                 @Override
                 public void onDismissed(Snackbar snackbar, int event) {
                     Message message = mSnackbarHandler.obtainMessage(SnackbarHandler.MESSAGE_DISMISSED);
